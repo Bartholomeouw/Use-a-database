@@ -57,8 +57,19 @@ You can start the code in the following ways :
 
 ```
 //On visual studio code
-Click on "Run" and "Start Debugging", or you can use the keyboard shortcut "F5".
+Click on "Run" and "Start Debugging", or you can use the keyboard shortcut "F5"
 
 //With pm2
 pm2 start index.js --name "Language System"
 ```
+
+Your bot can now communicate with you.
+
+To understand the code a little more closely :
+
+```js
+db.set(`lang_${message.guild.id}`, "fr")
+```
+
+- `lang`, the variable in which the language will be written.
+- `message.guild.id` the language will be set on the server identifier (each Discord server will have its own defined league).
