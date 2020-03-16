@@ -2,12 +2,12 @@
 
 module.exports = {
 
-    token: "NjM2Mjc3NDM5OTI4MjA1MzEy.XkL-GA.HO0EQutWbWoGQLUUaz_lA1sCcBE", //Token bot
-    prefix: "?", //Basic prefix bot
+    token: "", //Token bot
+    prefix: "", //Basic prefix bot
 
-    ownerID: "617498280452161538", //ID
+    ownerID: "", //ID
 
-    lang: "fr", //(en, fr)
+    lang: "", //(en, fr)
 
     emojis: {
 
