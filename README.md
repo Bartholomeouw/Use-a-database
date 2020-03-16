@@ -37,7 +37,7 @@ Reminder :
 - `lang`, the basic language of the bot (fr = french) and (en = english).
 - `emojis`, this is a part to customize the emojis (check and error).
 
-1) The system for changing the language
+# 1) The system for changing the language
 
 For this tutorial we will need the folder "Language System".
 Go to the folder `config` then the file `bot.js`.
