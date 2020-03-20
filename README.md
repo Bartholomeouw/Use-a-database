@@ -1,7 +1,7 @@
 # Use-a-database
 A little source code to teach you how to use a database.
 
-Wondering how to store items in a database? This tutorial is for you. We will learn how to store text, numbers or units. This tutorial has 3 parts.
+Wondering how to store items in a database ? This tutorial is for you. We will learn how to store text, numbers or units. This tutorial has 3 parts.
 
 - Making a language system
 - Making a money system
